@@ -1,0 +1,31 @@
+# ==============================================================================
+# Security & Privacy: Strict Data Protection (.gitignore)
+# ==============================================================================
+# In accordance with institutional research ethics (IRB Protocol No. IRB-2023-EE-042),
+# student evaluation and academic performance datasets are confidential and withheld
+# from public repository access.
+
+# Datasets and spreadsheet files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*dataset*
+*data_analysis_scripts/*.csv
+*data_analysis_scripts/*.xlsx
+deidentified_*
+
+# Python & Environment caches
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+ENV/
+.env
+
+# Build & OS caches
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
