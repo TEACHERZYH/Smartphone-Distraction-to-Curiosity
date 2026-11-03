@@ -60,7 +60,7 @@ The script groups records by academic year and intact class (experimental/contro
 
 See:
 - [Class-level analysis notes](docs/CLASS_LEVEL_ANALYSIS_NOTES.md)
-- [Aggregated statistical reanalysis report (PDF)](docs/Teaching_Data_Class_Level_Analysis_Revised_Report.pdf)
+- [Statistical reanalysis report (Markdown)](docs/STATISTICAL_REANALYSIS_REPORT.md)
 
 ---
 
