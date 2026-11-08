@@ -88,14 +88,7 @@ Smartphone-Distraction-to-Curiosity/
 │       └── requirements.txt                    # Scientific computing dependencies (NumPy, SciPy, etc.)
 ├── docs/
 │   ├── 智能手机跨模态信号与物联网感知实验指导书.pdf  # Comprehensive Laboratory Manual (PDF, 28 pages)
-│   └── assets/                                 # High-resolution framework diagrams, waveforms & UI screenshots
-│       ├── Figure_1.png                        # Pedagogical redirection & POE+CR framework
-│       ├── Figure_2.png                        # Five-stage POE+CR cycle & platform evidence artifacts
-│       ├── Figure_3.png                        # Counterintuitive cross-modal phenomena overview
-│       ├── Figure_4.png                        # Local LAN client–server platform architecture
-│       ├── Figure_5.png                        # Three-year within-class empirical outcomes summary
-│       ├── waveforms_full.png                  # High-resolution 3-panel signal waveform plots
-│       └── ui_teacher_student_combined.png     # Live instructor dashboard & student mobile UI
+│   
 ├── .gitignore                                  # Strictly blocks student evaluation datasets (*.csv, *.xlsx)
 ├── LICENSE                                     # MIT Open-Source License
 └── README.md                                   # Repository documentation
